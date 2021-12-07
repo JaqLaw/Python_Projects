@@ -5,12 +5,12 @@ class Animal:
     color = 'No color provided'
     age = 0
 
-class Animal(Dog):
+class Dog(Animal):
     breed = 'No breed provided'
     name = 'No name provided'
     trained = False
 
-class Animal(Cat):
+class Cat(Animal):
     breed = 'No breed provided'
     name = 'No name provided'
     feral = False
