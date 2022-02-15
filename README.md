@@ -1,6 +1,9 @@
 # Python_Projects
  
-This repository contains Python Projects that I created using tkinter, sqlite3, django, etc.
+This repository contains Python Projects that I created using django, tkinter, sqlite3, bootstrap, beautiful soup,  etc.
+
+[Pet Adoption App](Appbuilder9000)
+<br>A fully functioning web app for listing, viewing, and searching animals for adoption. Includes a webscraper for data, utilizes PetFinder's API to pull external adoption listings and provides a basic API. 
 
 [File Transfer Gui](file_transfer_gui)
 <br>This project allows the user to check a source folder for new or updated files compared to a destination folder and sync the two.
